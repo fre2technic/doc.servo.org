@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["IterablePage",""]],"struct":[["Frame","Information for one frame in the browsing context."],["Page","Encapsulates a handle to a frame in a frame tree."],["PageIterator",""]]});

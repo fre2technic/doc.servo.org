@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["static_representation","Returns the static character that represents the value rendered using the given list-style, if possible."]],"struct":[["ResolveGeneratedContent","The generated content resolution traversal."]]});

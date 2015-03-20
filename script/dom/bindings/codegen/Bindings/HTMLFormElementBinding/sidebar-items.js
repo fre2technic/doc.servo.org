@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["HTMLFormElementMethods",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"static":[["sNativePropertyHooks",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["TrustedWorkerAddress",""]],"struct":[["Worker",""],["WorkerErrorHandler",""],["WorkerEventHandler",""],["WorkerMessageHandler",""]]});

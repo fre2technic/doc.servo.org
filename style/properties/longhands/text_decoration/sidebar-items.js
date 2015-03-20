@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_initial_value",""],["parse","none | [ underline || overline || line-through || blink ]"],["parse_declared",""],["parse_specified",""]],"struct":[["SpecifiedValue",""]],"mod":[["computed_value",""]]});

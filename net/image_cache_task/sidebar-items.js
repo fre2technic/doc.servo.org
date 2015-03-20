@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ImageCacheTask",""]],"fn":[["spawn_listener",""]],"enum":[["ImageResponseMsg",""],["Msg",""]],"trait":[["ImageCacheTaskClient",""]]});

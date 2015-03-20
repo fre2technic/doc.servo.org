@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["WorkerGlobalScopeHelpers",""]],"enum":[["WorkerGlobalScopeTypeId",""]],"struct":[["WorkerGlobalScope",""]]});

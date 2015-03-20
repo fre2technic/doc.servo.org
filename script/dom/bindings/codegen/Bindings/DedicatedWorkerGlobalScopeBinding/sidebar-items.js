@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["DedicatedWorkerGlobalScopeMethods",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"static":[["sNativePropertyHooks",""]]});

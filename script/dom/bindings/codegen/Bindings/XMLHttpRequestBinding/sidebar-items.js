@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["XMLHttpRequestResponseType",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"static":[["sNativePropertyHooks",""]],"trait":[["XMLHttpRequestMethods",""]],"mod":[["XMLHttpRequestConstants",""],["XMLHttpRequestResponseTypeValues",""]]});

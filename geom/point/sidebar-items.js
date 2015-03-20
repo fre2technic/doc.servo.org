@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Point2D",""]],"fn":[["Point2D",""],["TypedPoint2D",""]],"type":[["TypedPoint2D",""]]});

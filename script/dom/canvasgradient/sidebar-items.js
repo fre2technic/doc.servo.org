@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ToFillOrStrokeStyle",""]],"struct":[["CanvasGradient",""]],"enum":[["CanvasGradientStyle",""]]});

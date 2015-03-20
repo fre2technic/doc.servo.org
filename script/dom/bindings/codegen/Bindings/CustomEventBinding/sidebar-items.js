@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CustomEventInit",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"trait":[["CustomEventMethods",""]],"static":[["sNativePropertyHooks",""]]});

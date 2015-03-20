@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ErrorEventMethods",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"static":[["sNativePropertyHooks",""]],"struct":[["ErrorEventInit",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["WindowMethods",""]],"fn":[["DefineDOMInterface",""],["GetProtoObject",""],["Wrap",""]],"static":[["sNativePropertyHooks",""]]});

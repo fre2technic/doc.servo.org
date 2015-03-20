@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ActivationElementHelpers",""],["AttributeHandlers",""],["ElementHelpers",""],["LayoutElementHelpers",""],["RawLayoutElementHelpers",""]],"enum":[["ElementCreator",""],["ElementTypeId",""],["StylePriority",""]],"struct":[["Element",""]],"fn":[["get_attribute_parts",""]]});
